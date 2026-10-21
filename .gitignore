@@ -12,3 +12,6 @@ wheels/
 # Checkpoint folders
 .ipynb_checkpoints/
 
+
+# Private notes for Claude
+CLAUDE.md
