@@ -21,7 +21,7 @@ Work is split into **sections**, not days. A section takes as long as it takes, 
 
 - [x] **1. Setup:** uv, Python 3.12, JupyterLab, this repo. *Move on when* the repo has its first log entry.
 - [x] **2. Five functions from memory.** *Move on when* I can write them without looking anything up.
-- [ ] **3. `Vector` class by hand:** `+`, `*`, `dot`, `norm`. *Move on when* every assert passes and I can explain each method.
+- [x] **3. `Vector` class by hand:** `+`, `*`, `dot`, `norm`. *Move on when* every assert passes and I can explain each method.
 - [ ] **4. NumPy:** arrays, shapes, broadcasting; redo `Vector` in NumPy. *Move on when* I can predict an array's shape before I run it.
 - [ ] **5. matplotlib:** plot vectors as arrows. *Move on when* I can plot any vector I want.
 - [ ] **Unit review**
