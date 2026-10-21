@@ -18,3 +18,7 @@ A: Pointing the same way is positive, while right angles are 0, and opposite dir
 A: It's exactly 5 because the two vectors form a right triangle, letting you use a neat pythagrean theorem to get 3^2 + 4^2 = c^2... sqrt(25) is 5.
 
 Finished with Section 3 today. Needed to review basic vector theory, but it's all pretty straightforward. Also claude is pretty good at showing examples and giving exercises to solidify what I'm learning and coding. Writing things down is still a good tool as well, as plotting things makes it easy to visualize later.
+
+## Section 4 - 2026-10-21
+Worked on part of section 4 today, rewriting a Vector class with numpy. Overall just working on remembering the nuances of python
+
